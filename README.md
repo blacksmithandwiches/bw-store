@@ -1,0 +1,2 @@
+# bw-store
+store catalog
